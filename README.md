@@ -16,13 +16,12 @@ Project is created with:
 	
 ## Setup
 To run this project, install it locally:
-    1. Copy the XML and the folder (CantileverWizard) to %appdata%\Ansys\v232\ACT\extensions.
-    2. Load the extension: 
-      a. Click on ACT Start Page in Ansys Workbench
-      b. Click on Extension Manager and enable it by clicking on it
-      c. Return to the ACT Start Page, select "Launch Wizards" and click on CantileverBeam
-    5. Follow the steps
--->
+* Copy the XML and the folder (CantileverWizard) to %appdata%\Ansys\v232\ACT\extensions.
+* Load the extension: 
+	* Click on ACT Start Page in Ansys Workbench
+ 	* Click on Extension Manager and enable it by clicking on it
+ 	* Return to the ACT Start Page, select "Launch Wizards" and click on CantileverBeam
+* Follow the steps
 
 ```
 $ cd ../lorem
