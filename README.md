@@ -21,10 +21,4 @@ To run this project, install it locally:
 	* Click on ACT Start Page in Ansys Workbench
  	* Click on Extension Manager and enable it by clicking on it
  	* Return to the ACT Start Page, select "Launch Wizards" and click on CantileverBeam
-* Follow the steps
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+* Follow the steps of the Wizard
